@@ -1,0 +1,207 @@
+State or union territory,District,Population,Increase,Sex Ratio,Literacy,Density
+Gujarat,Thane,11060148,0.3601,886,0.8453,1157
+Gujarat,Pune,9429408,0.3037,915,0.8615,603
+Gujarat,Mumbai Suburban,9356962,0.0829,860,0.8991,20980
+Gujarat,Nashik,6107187,0.223,934,0.8231,393
+Gujarat,Nagpur,4653570,0.144,951,0.8839,470
+Gujarat,Ahmadnagar,4543159,0.1244,939,0.7905,266
+Gujarat,Solapur,4317756,0.1216,938,0.7702,290
+Gujarat,Jalgaon,4229917,0.1486,925,0.782,360
+Gujarat,Kolhapur,3876001,0.1001,957,0.8151,504
+Gujarat,Aurangabad,3701282,0.2776,923,0.7902,366
+Gujarat,Nanded,3361292,0.1686,943,0.7545,319
+Gujarat,Mumbai City,3085411,-0.0757,832,0.8921,19652
+Gujarat,Satara,3003741,0.0693,988,0.8287,287
+Gujarat,Amravati,2888445,0.1079,951,0.8738,237
+Gujarat,Sangli,2822143,0.0924,966,0.8148,329
+Gujarat,Yavatmal,2772348,0.1278,952,0.8282,204
+Gujarat,Raigarh,2634200,0.1931,959,0.8314,368
+Gujarat,Buldana,2586258,0.1585,934,0.834,268
+Gujarat,Bid,2585049,0.1961,916,0.7699,242
+Gujarat,Latur,2454196,0.1797,928,0.7726,343
+Gujarat,Chandrapur,2204307,0.0643,961,0.8001,193
+Gujarat,Dhule,2050862,0.2008,946,0.728,285
+Gujarat,Jalna,1959046,0.2146,937,0.7152,254
+Gujarat,Parbhani,1836086,0.2019,947,0.7334,295
+Gujarat,Akola,1813906,0.1127,946,0.8805,320
+Gujarat,Osmanabad,1657576,0.115,924,0.7844,219
+Gujarat,Nandurbar,1648295,0.2566,978,0.6438,277
+Gujarat,Ratnagiri,1615069,-0.0482,1122,0.8218,197
+Gujarat,Gondiya,1322507,0.1014,999,0.8495,253
+Gujarat,Wardha,1300774,0.0518,946,0.8699,206
+Gujarat,Bhandara,1200334,0.0565,982,0.8376,294
+Gujarat,Washim,1197160,0.1734,930,0.8325,244
+Gujarat,Hingoli,1177345,0.1927,942,0.7817,244
+Gujarat,Gadchiroli,1072942,0.1058,982,0.7436,74
+Gujarat,Sindhudurg,849651,-0.0221,1036,0.8556,163
+Maharashtra,Thane,11060148,0.3601,886,0.8453,1157
+Maharashtra,Pune,9429408,0.3037,915,0.8615,603
+Maharashtra,Mumbai Suburban,9356962,0.0829,860,0.8991,20980
+Maharashtra,Nashik,6107187,0.223,934,0.8231,393
+Maharashtra,Nagpur,4653570,0.144,951,0.8839,470
+Maharashtra,Ahmadnagar,4543159,0.1244,939,0.7905,266
+Maharashtra,Solapur,4317756,0.1216,938,0.7702,290
+Maharashtra,Jalgaon,4229917,0.1486,925,0.782,360
+Maharashtra,Kolhapur,3876001,0.1001,957,0.8151,504
+Maharashtra,Aurangabad,3701282,0.2776,923,0.7902,366
+Maharashtra,Nanded,3361292,0.1686,943,0.7545,319
+Maharashtra,Mumbai City,3085411,-0.0757,832,0.8921,19652
+Maharashtra,Satara,3003741,0.0693,988,0.8287,287
+Maharashtra,Amravati,2888445,0.1079,951,0.8738,237
+Maharashtra,Sangli,2822143,0.0924,966,0.8148,329
+Maharashtra,Yavatmal,2772348,0.1278,952,0.8282,204
+Maharashtra,Raigarh,2634200,0.1931,959,0.8314,368
+Maharashtra,Buldana,2586258,0.1585,934,0.834,268
+Maharashtra,Bid,2585049,0.1961,916,0.7699,242
+Maharashtra,Latur,2454196,0.1797,928,0.7726,343
+Maharashtra,Chandrapur,2204307,0.0643,961,0.8001,193
+Maharashtra,Dhule,2050862,0.2008,946,0.728,285
+Maharashtra,Jalna,1959046,0.2146,937,0.7152,254
+Maharashtra,Parbhani,1836086,0.2019,947,0.7334,295
+Maharashtra,Akola,1813906,0.1127,946,0.8805,320
+Maharashtra,Osmanabad,1657576,0.115,924,0.7844,219
+Maharashtra,Nandurbar,1648295,0.2566,978,0.6438,277
+Maharashtra,Ratnagiri,1615069,-0.0482,1122,0.8218,197
+Maharashtra,Gondiya,1322507,0.1014,999,0.8495,253
+Maharashtra,Wardha,1300774,0.0518,946,0.8699,206
+Maharashtra,Bhandara,1200334,0.0565,982,0.8376,294
+Maharashtra,Washim,1197160,0.1734,930,0.8325,244
+Maharashtra,Hingoli,1177345,0.1927,942,0.7817,244
+Maharashtra,Gadchiroli,1072942,0.1058,982,0.7436,74
+Maharashtra,Sindhudurg,849651,-0.0221,1036,0.8556,163
+Karnataka,Bangalore,9621551,0.4718,916,0.8767,4381
+Karnataka,Belgaum,4779661,0.1341,973,0.7348,356
+Karnataka,Mysore,3001127,0.1363,985,0.7279,476
+Karnataka,Tumkur,2678980,0.0365,984,0.7514,253
+Karnataka,Gulbarga,2566326,0.1801,971,0.6485,234
+Karnataka,Bellary,2452595,0.2099,983,0.6743,290
+Karnataka,Bijapur,2177331,0.205,960,0.6715,207
+Karnataka,Dakshina Kannada,2089649,0.1011,1020,0.8857,430
+Karnataka,Davanagere,1945497,0.0863,972,0.7574,328
+Karnataka,Raichur,1928812,0.1551,1000,0.5956,228
+Karnataka,Bagalkot,1889752,0.144,989,0.6882,288
+Karnataka,Dharwad,1847023,0.1513,971,0.8,434
+Karnataka,Mandya,1805769,0.0238,995,0.704,364
+Karnataka,Hassan,1776421,0.0318,1010,0.7607,261
+Karnataka,Shimoga,1752753,0.0671,998,0.8045,207
+Karnataka,Bidar,1703300,0.1337,956,0.7051,313
+Karnataka,Chitradurga,1659456,0.0933,974,0.7371,197
+Karnataka,Haveri,1597668,0.1102,950,0.774,331
+Karnataka,Kolar,1536401,0.1077,979,0.7439,386
+Karnataka,Uttara Kannada,1437169,0.0617,979,0.8406,140
+Karnataka,Koppal,1389920,0.1621,986,0.6809,250
+Karnataka,Chikkaballapura,1255104,0.0923,972,0.6976,296
+Karnataka,Udupi,1177361,0.0585,1094,0.8624,329
+Karnataka,Yadgir,1174271,0.2281,989,0.5183,223
+Karnataka,Chikmagalur,1137961,-0.0026,1008,0.7925,158
+Karnataka,Ramanagara,1082636,0.0505,976,0.6922,308
+Karnataka,Gadag,1064570,0.0954,982,0.7512,229
+Karnataka,Chamarajanagar,1020791,0.0573,993,0.6143,181
+Karnataka,Bangalore Rural,990923,0.1645,946,0.7793,431
+Karnataka,Kodagu,554519,0.0109,1019,0.8261,135
+Goa,North Goa,818008,0.0784,963,0.8957,471
+Goa,South Goa,640537,0.0873,986,0.8759,326
+Rajasthan,Jaipur,6626178,0.2619,910,0.7551,595
+Rajasthan,Jodhpur,3687165,0.2774,916,0.6594,161
+Rajasthan,Alwar,3674179,0.2278,895,0.7072,438
+Rajasthan,Nagaur,3307743,0.192,950,0.628,187
+Rajasthan,Udaipur,3068420,0.2369,958,0.6182,262
+Rajasthan,Sikar,2677333,0.1703,947,0.7191,346
+Rajasthan,Barmer,2603751,0.3252,902,0.5653,92
+Rajasthan,Ajmer,2583052,0.184,951,0.6933,305
+Rajasthan,Bharatpur,2548462,0.2129,880,0.7011,503
+Rajasthan,Bhilwara,2408523,0.196,973,0.6137,230
+Rajasthan,Bikaner,2363937,0.4119,905,0.6513,78
+Rajasthan,Jhunjhunun,2137045,0.1167,950,0.7413,361
+Rajasthan,Churu,2039547,0.0601,940,0.6675,147
+Rajasthan,Pali,2037573,0.1194,987,0.6239,164
+Rajasthan,Ganganagar,1969168,0.1004,887,0.6964,179
+Rajasthan,Kota,1951014,0.2439,911,0.7656,374
+Rajasthan,Jalor,1828730,0.2621,952,0.5486,172
+Rajasthan,Banswara,1797485,0.2653,980,0.5633,397
+Rajasthan,Hanumangarh,1774692,0.1691,906,0.6713,184
+Rajasthan,Dausa,1634409,0.2409,905,0.6816,476
+Rajasthan,Chittaurgarh,1544338,0.1608,972,0.6171,197
+Rajasthan,Karauli,1458248,0.2055,861,0.6622,264
+Rajasthan,Tonk,1421326,0.173,952,0.6158,198
+Rajasthan,Jhalawar,1411129,0.1955,946,0.615,227
+Rajasthan,Dungarpur,1388552,0.2536,994,0.5946,368
+Rajasthan,Sawai Madhopur,1335551,0.1956,897,0.6539,297
+Rajasthan,Baran,1222755,0.1968,929,0.6666,175
+Rajasthan,Dhaulpur,1206516,0.2271,846,0.6908,398
+Rajasthan,Rajsamand,1156597,0.1718,990,0.6314,248
+Rajasthan,Bundi,1110906,0.154,925,0.6152,192
+Rajasthan,Sirohi,1036346,0.2176,940,0.5525,202
+Rajasthan,Pratapgarh,867848,0.2278,983,0.5597,195
+Rajasthan,Jaisalmer,669919,0.3181,852,0.5722,17
+Uttar Pradesh,Allahabad,5954391,0.2063,901,0.7232,1086
+Uttar Pradesh,Moradabad,4772006,0.2522,906,0.5677,1283
+Uttar Pradesh,Ghaziabad,4681645,0.4227,881,0.7807,3971
+Uttar Pradesh,Azamgarh,4613913,0.1711,1019,0.7093,1138
+Uttar Pradesh,Lucknow,4589838,0.2582,917,0.7729,1816
+Uttar Pradesh,Kanpur Nagar,4581268,0.0992,862,0.7965,1452
+Uttar Pradesh,Jaunpur,4494204,0.1489,1024,0.7155,1113
+Uttar Pradesh,Sitapur,4483992,0.2388,888,0.6112,781
+Uttar Pradesh,Bareilly,4448359,0.2293,887,0.5849,1080
+Uttar Pradesh,Gorakhpur,4440895,0.1781,950,0.7083,1337
+Uttar Pradesh,Agra,4418797,0.2205,868,0.7158,1093
+Uttar Pradesh,Muzaffarnagar,4143512,0.1694,889,0.6912,1034
+Uttar Pradesh,Hardoi,4092845,0.2044,868,0.6457,684
+Uttar Pradesh,Kheri,4021243,0.2538,894,0.6056,524
+Uttar Pradesh,Sultanpur,3797117,0.1811,983,0.6927,856
+Uttar Pradesh,Bijnor,3682713,0.176,917,0.6848,807
+Uttar Pradesh,Budaun,3681896,0.1995,871,0.5129,712
+Uttar Pradesh,Varanasi,3676841,0.1715,913,0.756,2395
+Uttar Pradesh,Aligarh,3673889,0.2278,882,0.6752,1007
+Uttar Pradesh,Ghazipur,3620268,0.1918,952,0.7178,1072
+Uttar Pradesh,Kushinagar,3564544,0.232,961,0.6525,1227
+Uttar Pradesh,Bulandshahar,3499171,0.2012,896,0.6888,776
+Uttar Pradesh,Bahraich,3487731,0.4648,892,0.4936,666
+Uttar Pradesh,Saharanpur,3466382,0.1966,890,0.7049,940
+Uttar Pradesh,Meerut,3443689,0.1489,886,0.7284,1346
+Uttar Pradesh,Gonda,3433919,0.2417,921,0.5871,858
+Uttar Pradesh,Rae Bareli,3405559,0.1856,943,0.6725,739
+Uttar Pradesh,Barabanki,3260699,0.2196,910,0.6175,741
+Uttar Pradesh,Ballia,3239774,0.1731,937,0.7094,1087
+Uttar Pradesh,Pratapgarh,3209141,0.175,998,0.7009,863
+Uttar Pradesh,Unnao,3108367,0.1511,907,0.6637,682
+Uttar Pradesh,Deoria,3100946,0.1431,1017,0.7113,1221
+Uttar Pradesh,Shahjahanpur,3006538,0.18,872,0.5954,685
+Uttar Pradesh,Maharajganj,2684703,0.235,943,0.6276,909
+Uttar Pradesh,Fatehpur,2632733,0.1405,901,0.6743,634
+Uttar Pradesh,Siddharth Nagar,2559297,0.2545,976,0.5925,884
+Uttar Pradesh,Mathura,2547184,0.2278,863,0.7036,763
+Uttar Pradesh,Firozabad,2498156,0.2169,875,0.7192,1038
+Uttar Pradesh,Mirzapur,2496970,0.18,903,0.6848,567
+Uttar Pradesh,Faizabad,2470996,0.1829,962,0.6873,1056
+Uttar Pradesh,Basti,2464464,0.1821,963,0.6722,917
+Uttar Pradesh,Ambedkar Nagar,2397888,0.183,978,0.7223,1020
+Uttar Pradesh,Rampur,2335819,0.2142,909,0.5334,987
+Uttar Pradesh,Mau,2205968,0.1898,979,0.7309,1288
+Uttar Pradesh,Balrampur,2148665,0.2772,928,0.4951,642
+Uttar Pradesh,Pilibhit,2031007,0.2345,895,0.6147,551
+Uttar Pradesh,Jhansi,1998603,0.1454,890,0.7505,398
+Uttar Pradesh,Chandauli,1952756,0.1883,918,0.7148,768
+Uttar Pradesh,Farrukhabad,1885204,0.2005,874,0.6904,864
+Uttar Pradesh,Mainpuri,1868529,0.1702,881,0.7599,677
+Uttar Pradesh,Sonbhadra,1862559,0.2727,918,0.6403,270
+Uttar Pradesh,Jyotiba Phule Nagar,1840221,0.2276,910,0.6384,818
+Uttar Pradesh,Banda,1799410,0.1705,863,0.6667,408
+Uttar Pradesh,Ramabai Nagar,1796184,0.1489,865,0.7578,595
+Uttar Pradesh,Etah,1774480,0.1362,873,0.7081,730
+Uttar Pradesh,Sant Kabir Nagar,1715183,0.2077,972,0.6672,1042
+Uttar Pradesh,Jalaun,1689974,0.1619,865,0.7375,370
+Uttar Pradesh,Kannauj,1656616,0.1927,879,0.727,792
+Uttar Pradesh,Gautam Buddha Nagar,1648115,0.3711,851,0.8012,1286
+Uttar Pradesh,Kaushambi,1599596,0.237,908,0.6128,899
+Uttar Pradesh,Etawah,1581810,0.1815,870,0.7841,684
+Uttar Pradesh,Sant Ravidas Nagar,1578213,0.1658,955,0.6897,1555
+Uttar Pradesh,Mahamaya Nagar,1564708,0.1712,871,0.7159,850
+Uttar Pradesh,Kanshiram Nagar,1436719,0.1693,880,0.6102,735
+Uttar Pradesh,Auraiya,1379545,0.1691,864,0.7895,684
+Uttar Pradesh,Baghpat,1303048,0.1195,861,0.7201,986
+Uttar Pradesh,Lalitpur,1221592,0.2494,906,0.6352,242
+Uttar Pradesh,Shrawasti,1117361,-0.0502,881,0.4674,681
+Uttar Pradesh,Hamirpur,1104285,0.058,861,0.6877,275
+Uttar Pradesh,Chitrakoot,991730,0.2943,879,0.6505,308
+Uttar Pradesh,Mahoba,875958,0.2364,878,0.6527,279
